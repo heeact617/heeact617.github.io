@@ -6,8 +6,8 @@
     "description": "리액트 토이 프로젝트 To Do List App입니다.",
     "period": "2024",
     "tags": ["react", "styled-components", "localstorage"],
-    "demo": "https://heeact617.github.io/toy-project/todo-app/",
-    "github": "https://github.com/heeact617/toy-project/todo-app",
+    "demo": "https://heeact617.github.io/todo-app/",
+    "github": "https://github.com/heeact617/todo-app",
     "review": "https://heeccup.tistory.com/104"
   }
 ]
