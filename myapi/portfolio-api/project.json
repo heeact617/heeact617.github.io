@@ -7,7 +7,7 @@
     "period": "2023.06 - 2024.02",
     "contribution": "퍼블리싱 50%",
     "tags": ["HTML", "CSS", "jQuery", "openworks4"],
-    "report": "https://heeact617.notion.site/d7fc8c8e33974f76b12b8326eaab4461"
+    "report": "https://jhee7610.notion.site/d7fc8c8e33974f76b12b8326eaab4461"
   },
   {
     "copy": "company",
@@ -17,7 +17,7 @@
     "period": "2023.04 - 2024.01",
     "contribution": "퍼블리싱 50%",
     "tags": ["HTML", "CSS", "jQuery", "openworks4"],
-    "report": "https://heeact617.notion.site/ada6fdcd042a40a8ac46aa2d57aafbbd"
+    "report": "https://jhee7610.notion.site/ada6fdcd042a40a8ac46aa2d57aafbbd"
   },
   {
     "copy": "personal",
@@ -27,7 +27,7 @@
     "period": "2022",
     "contribution": "디자인, 퍼블리싱 100%",
     "tags": ["HTML", "CSS", "jQuery", "lightbox-js"],
-    "site": "https://heeact617.github.io/portfolio/"
+    "site": "https://jhee7610.github.io/portfolio/"
   },
   {
     "copy": "company",
@@ -97,7 +97,7 @@
     "period": "2020",
     "contribution": "기획,디자인, 퍼블리싱 100%",
     "tags": ["HTML", "CSS", "jQuery", "swiper-js", "bxslider-js"],
-    "site": "https://heeact617.github.io/portfolio/page/work/visitbusan/index.html"
+    "site": "https://heeact617.github.io/myapi/portfolio-project/visitbusan/index.html"
   },
   {
     "copy": "personal",
@@ -109,10 +109,10 @@
     "tags": ["HTML", "CSS", "jQuery", "kxbdmarquee-js"],
     "site": [
       {
-        "url1": "https://heeact617.github.io/portfolio/page/work/pot/pot_plan.pdf",
-        "url2": "https://heeact617.github.io/portfolio/page/work/pot/index.html",
-        "url3": "https://heeact617.github.io/portfolio/page/work/pot/sub/sub.html",
-        "url4": "https://heeact617.github.io/portfolio/page/work/pot/detail/detail.html"
+        "url1": "https://heeact617.github.io/myapi/portfolio-project/pot/pot_plan.pdf",
+        "url2": "https://heeact617.github.io/myapi/portfolio-project/pot/index.html",
+        "url3": "https://heeact617.github.io/myapi/portfolio-project/pot/sub/sub.html",
+        "url4": "https://heeact617.github.io/myapi/portfolio-project/pot/detail/detail.html"
       }
     ]
   }
